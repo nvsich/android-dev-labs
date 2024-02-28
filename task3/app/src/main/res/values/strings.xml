@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">task3</string>
+    <string name="fio">Наконечный Виктор Сергеевич, БПИ223</string>
+    <string name="activity1text">Activity 1</string>
+    <string name="activity1hintText">Write some text here</string>
+    <string name="activity1buttonText">Click!</string>
+    <string name="activity2Text">Activity 2</string>
+    <string name="acitivity2buttonText">RETURN</string>
+</resources>
