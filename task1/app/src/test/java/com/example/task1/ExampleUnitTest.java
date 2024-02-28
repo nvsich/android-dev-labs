@@ -1,4 +1,4 @@
-package ru.android_dev.helloworld;
+package com.example.task1;
 
 import org.junit.Test;
 

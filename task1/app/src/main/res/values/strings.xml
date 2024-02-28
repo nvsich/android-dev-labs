@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">task 1</string>
+    <string name="app_name">task1</string>
     <string name="fio">Наконечный Виктор Сергеевич, БПИ223</string>
+    <string name="checkbox">Сдать лабы вовремя</string>
 </resources>

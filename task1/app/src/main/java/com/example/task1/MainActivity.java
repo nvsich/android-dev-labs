@@ -1,8 +1,9 @@
-package ru.android_dev.helloworld;
+package com.example.task1;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.webkit.WebView;
 
 public class MainActivity extends AppCompatActivity {
 
