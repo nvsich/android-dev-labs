@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">task6</string>
+    <string name="buttonText">ROTATE!</string>
+    <string name="fio">Наконечный Виктор Сергеевич, БПИ223</string>
+    <string name="scaleButtonText">SCALE!</string>
+    <string name="fadeButtonText">FADE!</string>
+</resources>
