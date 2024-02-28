@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/show_text"
+        android:checkable="true"
+        android:title="@string/coverText" />
+
+    <item
+        android:id="@+id/spin_head"
+        android:title="@string/spin_text" />
+
+    <item
+        android:id="@+id/aboutProgram"
+        android:title="О программе" />
+
+
+</menu>

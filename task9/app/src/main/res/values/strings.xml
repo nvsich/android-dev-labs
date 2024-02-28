@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">task9</string>
+    <string name="coverText">Скрыть текст</string>
+    <string name="fio">Наконечный Виктор Сергеевич, БПИ223</string>
+    <string name="redblack">Red or Black?</string>
+    <string name="spin_text">Крутануть голову</string>
+</resources>
