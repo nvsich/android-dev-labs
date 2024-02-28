@@ -31,6 +31,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void setData() {
+        tweetTexts.add("Наконечный Виктор\nСергеевич, БПИ223");
+        tweetImages.add(R.drawable.image0);
+
         tweetTexts.add("Ель");
         tweetImages.add(R.drawable.image1);
 
