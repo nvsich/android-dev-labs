@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">task4</string>
+    <string name="fioText">Наконечный Виктор Сергеевич, БПИ223</string>
+    <string name="buttonText">CHANGE THEME</string>
+</resources>
